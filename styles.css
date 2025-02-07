@@ -3,6 +3,7 @@ body {
   background: #efefef;
   justify-content: center;
   padding: 20px;
+  font-size: 11px
 }
 .cards {
   list-style: none;
