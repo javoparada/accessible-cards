@@ -1,7 +1,6 @@
 body {
   font-family: Arial, sans-serif;
   background: #efefef;
-  display: flex;
   justify-content: center;
   padding: 20px;
 }
