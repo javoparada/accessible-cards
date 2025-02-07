@@ -1,4 +1,4 @@
-# Accessible Cards Without JavaScript
+# NoJS Accessible Cards
 
 ## Overview
 This project demonstrates an alternative approach to creating accessible, fully clickable cards using only HTML and CSS—without relying on JavaScript. The solution leverages CSS pseudo-elements and flexbox for layout while ensuring compliance with WCAG accessibility standards.
